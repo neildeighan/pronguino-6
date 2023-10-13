@@ -1,6 +1,8 @@
 /**
   pronguino.ino - Main sketch
 
+  https://neildeighan.com/pronguino-6/
+
   Parts required:
   - 2 x 10k Ohm potentiometers
   - 2 x Switches
